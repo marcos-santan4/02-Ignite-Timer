@@ -59,3 +59,5 @@ export const HistoryList = styled.div`
     }
   }
 `
+
+// parei no d48
